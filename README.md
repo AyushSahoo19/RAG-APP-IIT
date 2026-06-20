@@ -42,6 +42,7 @@ RAG-APP-IIT/
 ├── create_sample_corpus.py             # Script to generate mock markdown files
 ├── ingest.py                           # Ingestion pipeline script
 ├── README.md                           # Repository landing page (This file)
+├── pioneers.md                         # Listing of AI/RAG domain pioneers and contributors
 └── RAG_APP_IIT_Documentation.md       # In-depth technical architecture manual
 ```
 
@@ -95,6 +96,9 @@ This companion document includes:
 *   Comparative tables for text chunking methods and vector databases.
 *   Mathematical formulas for **Cosine Similarity**, **L2 Euclidean Distance**, and **RRF (Reciprocal Rank Fusion)**.
 *   Advanced techniques like **HyDE (Hypothetical Document Embeddings)** and **Cross-Encoder Reranking**.
+
+A list of domain pioneers and core contributors is documented in:
+👉 **[pioneers.md](file:///c:/Users/ayush/OneDrive/Desktop/AI%20ML%20IIT%20Mandi/01_Daily_Lectures_IIT_Mandi/03_Special_Classes/Industry%20Session%205/Coding%20Files%20&%20Projects/RAG-APP-IIT/pioneers.md)**
 
 ---
 
